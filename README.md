@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @andressarego
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋🏻 Olá! Eu sou a Andressa Rêgo.
 
-<!---
-andressarego/andressarego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Apaixonada por tecnologia, estou aprendendo programação e desenvolvendo projetos que conectam ideias a soluções reais.
+
+Busco aprimorar minhas habilidades e colaborar em iniciativas criativas e impactantes.
+
+📫 Entre em contato: regoandressa@gmail.com
